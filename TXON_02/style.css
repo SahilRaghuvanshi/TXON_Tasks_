@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Hanalei&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Hanalei&family=Kalam:wght@700&family=Monoton&display=swap');
+.heading{
+    font-family: 'Hanalei', cursive;
+    color: rgb(70, 150, 231);
+    font-size: 80px;
+}
+p{
+    font-family: 'Kalam', cursive;
+    color: rgb(70, 150, 231); 
+    font-size: 16px;
+}
